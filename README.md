@@ -57,3 +57,7 @@ python serverbot.py
 ## Custom bots
 
 Need a bot for your community? Moderation, leveling, giveaways, verification, or integrations with your own tools. Get in touch via GitHub.
+
+**Order on Fiverr:**
+- Discord server setup (roles, tickets, bots): https://www.fiverr.com/bodhiriedel/set-up-your-discord-server-with-roles-tickets-and-bots
+- Custom Discord or Telegram bot: https://www.fiverr.com/bodhiriedel/build-a-custom-discord-bot-or-telegram-bot-in-python
